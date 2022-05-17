@@ -1,6 +1,15 @@
-# Basic Sample Hardhat Project
+Eth React Dapp | Send Tokens | Write data on blockchain
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+you can set and fetch greetings.
+you can check balance of ur ERC20 tokens and can send it to anyone.
+
+tools used:
+- Hardhat.js (Writing, Testing, Deploying Smart Contract)
+Rinkeby Test Network
+Smart Contract
+Deploying Smart Contract / Metamask setup
+React and Ethers.js
+Connecting Metamask
 
 Try running some of the following tasks:
 
