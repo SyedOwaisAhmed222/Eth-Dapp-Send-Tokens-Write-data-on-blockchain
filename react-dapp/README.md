@@ -3,6 +3,8 @@ Eth React Dapp | Send Tokens | Write data on blockchain
 you can set and fetch greetings.
 you can check balance of ur ERC20 tokens and can send it to anyone.
 
+Video demonstration: https://www.youtube.com/watch?v=mL685F7VGRo&t=8s
+
 tools used:
 - Hardhat.js (Writing, Testing, Deploying Smart Contract)
 Rinkeby Test Network
